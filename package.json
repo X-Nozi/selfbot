@@ -1,0 +1,28 @@
+{
+  "name": "selfbot",
+  "version": "4.9",
+  "description": "",
+  "main": "selfbot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "NjcyMTY3MjMxMTM1ODA5NTk0.Xkh4tQ.VmQhInMCwLMC3NZvji9JPIsHBdE",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^3.0.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^11.5.1",
+    "enmap": "^5.2.4",
+    "figlet": "^1.2.4",
+    "fs": "0.0.1-security",
+    "install": "^0.13.0",
+    "node-google-translate-skidz": "^1.1.2",
+    "os": "^0.1.1",
+    "physical-cpu-count": "^2.0.0",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "speedtest-net": "^1.6.2",
+    "systeminformation": "^4.21.3",
+    "ytdl-core": "^1.0.8"
+  }
+}
